@@ -1,0 +1,14 @@
+1. Output the first 50 rows of the super store dataset
+2. Check for the data type of all the columns
+3. Perform a summary statistics analysis on the dataset 
+4. Check for null values in the dataset
+5. Check for the min and max date
+6. Find the total sales and total profit for each region
+7. Plot a Bar Chart for the regional distribution of sales and profit
+8. Find the total sales and total profit for each segment
+9. Plot a Bar Chart for the segment distribution of sales and profit
+8. Find the total sales and total profit for each category
+9. Plot a Bar Chart for the category distribution of sales and profit
+10. Find the total sales and total profit for each year
+11. Plot a line Chart for the yearly distribution of sales and profit
+12. Calculate the number of total order for each category     
